@@ -6,6 +6,8 @@ require(qdapTools)
 # 指数表示の回避
 options(scipen=10)
 
+source("script/R/fun/functions.R")
+
 #
 # データの読み込み
 #
